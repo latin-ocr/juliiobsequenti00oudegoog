@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./juliiobsequenti00oudegoog_0011.png"; bbox 0 0 2582 4326; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 488 1620 844 1876">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 488 1620 844 1876">
+     <span class='ocr_line' id='line_1_1' title="bbox 506 1620 829 1726; baseline -0.04 -39"><span class='ocrx_word' id='word_1_1' title='bbox 506 1620 829 1726; x_wconf 32' lang='lat' dir='ltr'>ffiffi‘ul&#39;ffzfflfffflfsffi</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 557 1705 844 1788; baseline 0.003 -23"><span class='ocrx_word' id='word_1_2' title='bbox 557 1705 844 1788; x_wconf 50' lang='lat' dir='ltr'>LAUSANNEJ=</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 488 1770 841 1876; baseline -0.031 -22"><span class='ocrx_word' id='word_1_3' title='bbox 488 1825 492 1835; x_wconf 93' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 514 1785 551 1876; x_wconf 47' lang='grc' dir='ltr'>(ἶ</span> <span class='ocrx_word' id='word_1_5' title='bbox 571 1770 841 1853; x_wconf 49' lang='lat' dir='ltr'>u&#39;rh&#39;v&#39;fssk‘ffssl&#39;ssffl‘</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1296 4326">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1296 4326">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1296 4326; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1296 4326; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
